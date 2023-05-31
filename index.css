@@ -1,0 +1,14 @@
+#parent {
+  padding: 20px;
+  background-color: antiquewhite;
+  margin: 20px;
+}
+
+#heading {
+  color: blueviolet;
+  font-size: 2rem;
+}
+
+.child {
+  margin-bottom: 10px;
+}
